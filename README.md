@@ -16,7 +16,7 @@ Just clone this project and start building your npm package for react components
 1. npm i -g create-react-app
 2. mkdir react-project-test
 3. cd react-project-test
-4. create-react-app
+4. create-react-app .
 5. npm link {your project name}
 
 Open src/App.js, import and add your component to it.
